@@ -2,7 +2,7 @@
 
 ![Charusuu GitHub stats](https://github-readme-stats.vercel.app/api?username=charusuu&show_icons=true&theme=radical)
 ![Charusuu GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=charusuu&theme=blue-green)
-![giphy](https://github.com/charusuu/charusuu/assets/165962786/062ae23c-2a81-4c7a-9e4e-59f72f65ca58)
+![giphy](https://github.com/charusuu/charusuu/assets/165962786/062ae23c-2a81-4c7a-9e4e-59f72f65ca58)![giphy](https://github.com/charusuu/charusuu/assets/165962786/062ae23c-2a81-4c7a-9e4e-59f72f65ca58)![giphy](https://github.com/charusuu/charusuu/assets/165962786/062ae23c-2a81-4c7a-9e4e-59f72f65ca58)
 
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/charlless_jr/)
